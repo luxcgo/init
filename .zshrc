@@ -85,7 +85,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(colorize git docker docker-compose zsh-completions zsh-syntax-highlighting)
+plugins=(colorize git docker docker-compose zsh-completions zsh-syntax-highlighting extract)
 
 source $ZSH/oh-my-zsh.sh
 
